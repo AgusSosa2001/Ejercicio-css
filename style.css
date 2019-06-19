@@ -1,5 +1,11 @@
+.body{
+    font-family: Roboto;
+    font-size: 14px;
+}
+
 .header{
     background-color: #EFEBE2;
+    text-align: center;
 }
 
 .nav1{
@@ -12,4 +18,5 @@
 
 .footer{
     background-color: #07040A;
+    text-align: center;
 }
